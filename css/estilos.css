@@ -1,0 +1,17 @@
+@charset "utf-8";
+/* CSS Document */
+*
+{
+	margin:0px;
+	padding:0px;
+}
+ #maincontent
+{
+	background:url(../ima/fondo_social2.jpg) 0 0 no-repeat scroll;
+	width:790px;
+	height:862px;
+	margin:0 auto;
+	padding-top: 228px;
+	/*padding-left: 109px;*/
+}
+
